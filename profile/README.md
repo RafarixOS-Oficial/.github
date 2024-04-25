@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hola a todos 👋
 
 
-**Here are some ideas to get you started:**
+## RafarixOS
 
 🙋‍♀️ RafarixOS es un Sistema Operativo basado en Ubuntu LTS?
 
