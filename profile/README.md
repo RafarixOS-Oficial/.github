@@ -1,12 +1,5 @@
-## RafarixOS
+# RafarixOS
+RafarixOS es una distribución de GNU/Linux basada en Ubuntu, cuenta con la mayor estabilidad que ofrece Cannonical en sus versiones LTS, inspirado en distribuciones como Fedora, Manjaro y Linux Mint pero con un toque de simpleza, actualizada y con herramientas concretas.
 
-🙋‍♀️ RafarixOS es un Sistema Operativo basado en Ubuntu LTS
-
-🧙 Cualquier contribución es bienvenida
-
-👩‍💻 Desarrolladores de WikiRafa
-
-🍿 Proyecto sin animo de lucro
-
-README TEMPORAL
+![RafarixOS](https://github.com/xoanxc/RafarixOS/blob/main/assets/images/PreLudeOSRedonded.png)
 
