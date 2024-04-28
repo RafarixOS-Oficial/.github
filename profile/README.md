@@ -4,3 +4,18 @@ RafarixOS es una distribución de GNU/Linux basada en Ubuntu, cuenta con la mayo
 
 ![RafarixOS](https://github.com/RafarixOS-Oficial/RafarixOS/blob/main/assets/images/PreLudeOSRedonded.png)
 
+# Top Contributors
+
+A continuación, se muestran los colaboradores de cada uno de los repositorios de RafarixOS, ordenados por usuario con más a menos commits.
+
+## RafarixOS
+![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/RafarixOS)
+
+## NeoFetchForRafarix
+![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/NeoFetchForRafarix)
+
+## GrubForRafarixOS
+![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/GrubForRafarixOS)
+
+## RafarixWEB
+![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/RafarixWEB)
