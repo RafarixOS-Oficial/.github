@@ -11,9 +11,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@latest  # Asegúrate de verificar la versión correcta
+    - uses: actions/checkout@v4.1.4  # Usa la versión más reciente que sea compatible con Node.js 20
     - name: Set up Python
-      uses: actions/setup-python@latest  # Asegúrate de verificar la versión correcta
+      uses: actions/setup-python@v5.1.0  # Usa la versión más reciente según los releases
       with:
         python-version: '3.x'
     - name: Install dependencies
