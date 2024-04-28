@@ -11,9 +11,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@latest  # Asegúrate de verificar la versión correcta
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@latest  # Asegúrate de verificar la versión correcta
       with:
         python-version: '3.x'
     - name: Install dependencies
