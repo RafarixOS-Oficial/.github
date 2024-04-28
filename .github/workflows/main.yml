@@ -11,7 +11,9 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4.1.4  # Usa la versión más reciente que sea compatible con Node.js 20
+    - uses: actions/checkout@v4.1.4
+      with:
+        token: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}  # Utiliza el PAT almacenado en secrets
     - name: Set up Python
       uses: actions/setup-python@v5.1.0  # Usa la versión más reciente según los releases
       with:
