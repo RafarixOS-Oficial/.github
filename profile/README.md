@@ -10,13 +10,13 @@ RafarixOS es una distribución de GNU/Linux basada en Ubuntu, cuenta con la mayo
 A continuación, se muestran los colaboradores de cada uno de los repositorios de RafarixOS, ordenados por usuario con más a menos commits.
 
 ## RafarixOS
-![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/RafarixOS)
+![Contributors](https://contrib.rocks/image?repo=RafarixOS/RafarixOS)
 
 ## NeoFetchForRafarix
-![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/NeoFetchForRafarix)
+![Contributors](https://contrib.rocks/image?repo=RafarixOS/NeoFetchForRafarix)
 
 ## GrubForRafarixOS
-![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/GrubForRafarixOS)
+![Contributors](https://contrib.rocks/image?repo=RafarixOS/GrubForRafarixOS)
 
 ## RafarixWEB
 ![Contributors](https://contrib.rocks/image?repo=RafarixOS/rafarix.github.io)
