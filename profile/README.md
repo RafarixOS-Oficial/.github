@@ -19,4 +19,4 @@ A continuación, se muestran los colaboradores de cada uno de los repositorios d
 ![Contributors](https://contrib.rocks/image?repo=RafarixOS-Oficial/GrubForRafarixOS)
 
 ## RafarixWEB
-![Contributors](https://contrib.rocks/image?repo=RafarixOS/RafarixWEB)
+![Contributors](https://contrib.rocks/image?repo=RafarixOS/rafarix.github.io)
